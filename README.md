@@ -1,5 +1,5 @@
 # LaserNet
-model---efficientNetV2s
+model---EfficientNetV2s
 
 Reference ：
 
