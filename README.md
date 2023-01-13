@@ -1,5 +1,7 @@
 # Automated Catastrophic Optical Damage Inspection of Semiconductor Laser Chip Using an Efficient Convolutional Neural Network
 
+Code for LaserNet
+
 requirements:
 
 1.numpy
