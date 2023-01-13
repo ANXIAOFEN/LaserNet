@@ -1,4 +1,4 @@
-# LaserNet
+# Automated Catastrophic Optical Damage Inspection of Semiconductor Laser Chip Using an Efficient Convolutional Neural Network
 
 requirements:
 
