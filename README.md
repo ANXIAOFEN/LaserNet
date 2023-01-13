@@ -1,5 +1,17 @@
 # LaserNet
-model---EfficientNetV2s
+
+requirements:
+
+1.numpy
+
+2.matplotlib
+
+3.tqdm==4.56.0
+
+4.torch>=1.7.1
+
+5.torchvision>=0.8.2
+
 
 Reference ：
 
